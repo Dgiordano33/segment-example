@@ -1,7 +1,7 @@
 {
   "name": "react-example",
   "version": "0.1.0",
-  "homepage": "https://Dgiordano33.github.io/react-example/",
+  "homepage": "https://segment-example.vercel.app/",
   "private": true,
   "dependencies": {
     "@atlaskit/code": "^14.3.5",
